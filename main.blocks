@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="function_definition" id="O{7g#5hwp+_L`erK4J|G" x="0" y="0"><mutation name="nightlight" functionid="!@[CK1el_]u8=}s{jULb"></mutation><field name="function_name">nightlight</field><statement name="STACK"><block type="device_show_leds" id="v=)YGPPGKP?ua:+$%HzX"><field name="LEDS">`
+        . # . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="pxt-on-start" id="43:.7QQ[H:[]foCEuS0j" x="272" y="108"><statement name="HANDLER"><block type="typescript_statement" id="BLL=^iQYn,sJ6+wi$?b!" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="input.onButtonPressed(Button.A, nightlight);" numlines="1"></mutation></block></statement></block></xml>
